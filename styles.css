@@ -1,6 +1,6 @@
 body {
   
-    background-image: url(img/FONDO2.jpg);
+    background-image: url(img/fondo1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -16,7 +16,7 @@ body {
 .card{
     border-style: solid;
    border-color: rgb(250, 250, 250);
-   box-shadow: 0 0 20px rgb(1, 240, 53);
+   box-shadow: 0 0 20px rgb(240, 37, 1);
 }
 .DatosCarrusel{
     width: 200px;
