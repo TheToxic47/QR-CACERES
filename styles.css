@@ -1,0 +1,41 @@
+body {
+  
+    background-image: url(img/FONDO2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #6699; 
+    }
+.principal1{
+ padding-left: 20px;
+}
+#r2{
+   font-size: 30px;
+}
+.card{
+    border-style: solid;
+   border-color: rgb(250, 250, 250);
+   box-shadow: 0 0 20px rgb(1, 240, 53);
+}
+.DatosCarrusel{
+    width: 200px;
+    padding-left: 20px;
+}
+.opacidad{
+   background-color: transparent;
+   backdrop-filter: blur(1px);
+   color: rgb(255, 255, 255);
+   font-weight: 600;
+}
+.sub{
+
+	padding:20px;
+    user-select: none;
+	font-size:20px;
+	color:#fff;
+	cursor: default;
+	position: fixed;
+	bottom:20px;
+	right:20px;
+}
